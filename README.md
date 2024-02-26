@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Resume Generator<br>👯 I’m looking to collaborate on any cool projects ?<br>🤝 I’m looking for help with DSA & Intern<br>🌱 I’m currently learning React and Web3<br>💬 Ask me about Front End Dev , Content & Travel<br>⚡ Fun fact : Live like Geet , work and love like Bunny !<br><br>
+🔭 I’m currently working on Web 3 <br>👯 I’m looking to collaborate on any cool projects ?<br>🤝 I’m looking for projects to contribute as founding member <br>🌱 I’m currently learning React(Intermediate) and Web3(Smart Contracts Beginner)<br>💬 Ask me about Front End Dev , Content & Travel<br>⚡ Fun fact : Live like Geet , work and love like Bunny !<br><br>
 
 
 ## 🌐 Socials:
